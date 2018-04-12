@@ -13,7 +13,7 @@ namespace dev275x.studentlist
             {
                 Console.WriteLine("Usage: dotnet dev275x.rollcall.dll (-a | -r | -c | +WORD | ?WORD)");
                 return; // Exit early.
-            }
+         }
 
             // Every operation requires us to load the student list.
             var fileContents = LoadData(Constants.StudentList);
