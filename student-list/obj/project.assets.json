@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VisualStudio\\Git\\WritingProfessionalCode\\student-list.csproj",
+      "projectUniqueName": "E:\\VisualStudio\\Git\\WritingProfessionalCode\\student-list\\student-list.csproj",
       "projectName": "student-list",
-      "projectPath": "E:\\VisualStudio\\Git\\WritingProfessionalCode\\student-list.csproj",
+      "projectPath": "E:\\VisualStudio\\Git\\WritingProfessionalCode\\student-list\\student-list.csproj",
       "packagesPath": "C:\\Users\\esubramanian\\.nuget\\packages\\",
-      "outputPath": "E:\\VisualStudio\\Git\\WritingProfessionalCode\\obj\\",
+      "outputPath": "E:\\VisualStudio\\Git\\WritingProfessionalCode\\student-list\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

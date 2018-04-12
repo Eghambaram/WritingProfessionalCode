@@ -16,7 +16,7 @@ namespace dev275x.studentlist
          }
 
             // Every operation requires us to load the student list.
-            var fileContents = LoadData(Constants.StudentList);
+            var fileContents = LoadData(Costants.StudentList);
 
             if (args[0] == Constants.ShowAll) 
             {

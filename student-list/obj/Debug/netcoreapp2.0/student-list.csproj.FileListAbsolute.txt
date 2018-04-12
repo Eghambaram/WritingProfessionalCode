@@ -18,3 +18,8 @@ E:\VisualStudio\Git\WritingProfessionalCode\obj\Debug\netcoreapp2.0\student-list
 E:\VisualStudio\Git\WritingProfessionalCode\obj\Debug\netcoreapp2.0\student-list.AssemblyInfo.cs
 E:\VisualStudio\Git\WritingProfessionalCode\obj\Debug\netcoreapp2.0\student-list.dll
 E:\VisualStudio\Git\WritingProfessionalCode\obj\Debug\netcoreapp2.0\student-list.pdb
+E:\VisualStudio\Git\WritingProfessionalCode\student-list\obj\Debug\netcoreapp2.0\student-list.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Git\WritingProfessionalCode\student-list\obj\Debug\netcoreapp2.0\student-list.AssemblyInfoInputs.cache
+E:\VisualStudio\Git\WritingProfessionalCode\student-list\obj\Debug\netcoreapp2.0\student-list.AssemblyInfo.cs
+E:\VisualStudio\Git\WritingProfessionalCode\student-list\obj\Debug\netcoreapp2.0\student-list.dll
+E:\VisualStudio\Git\WritingProfessionalCode\student-list\obj\Debug\netcoreapp2.0\student-list.pdb
