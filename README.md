@@ -1,4 +1,4 @@
-# Overview
+# Visula Studio Overview
 
 This application takes you through the process of making a project easier to understand by making a series of updates. The exercise is part of the [Writing Professional Code](https://www.edx.org/course/writing-professional-code-microsoft-dev275x) course on edX. 
 
