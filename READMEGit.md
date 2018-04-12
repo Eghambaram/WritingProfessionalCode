@@ -38,6 +38,11 @@ Push the changes in your local repository to GitHub.
 
 Pushes the changes in your local repository up to the remote repository you specified as the origin
 
+Add new folder into git repo
+git add -f [foldername]
+
+
+
 ## 2. Working with Git and a Remote Repository.
 In Terminal, change the current working directory to your local project.
 
@@ -56,5 +61,6 @@ Apart from our brief tour of GitHub in the preceding lesson, nearly everything w
 
 ##  At the command prompt or terminal window of your machine type the following command
 git clone [URL]
+
 
 Replace [URL] by pasting from the clipboard. Alternatively, replace [URL] in the command above with a URL in the format https://github.com/<your_github_username_here>/hello-remote.git.
