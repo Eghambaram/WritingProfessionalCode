@@ -74,3 +74,6 @@ Apart from our brief tour of GitHub in the preceding lesson, nearly everything w
 
 
 Replace [URL] by pasting from the clipboard. Alternatively, replace [URL] in the command above with a URL in the format https://github.com/<your_github_username_here>/hello-remote.git.
+
+
+[https://www.atlassian.com/git]https://www.atlassian.com/git
